@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+nav ul{
+    text-align: center;
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 15px;
+    padding: 5px;
+}
+nav li a{
+    text-decoration: none;
+}
