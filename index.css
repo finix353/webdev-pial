@@ -1,8 +1,8 @@
-h1{
+.fahim{
     text-align: center;
 }
-nav ul{
-    text-align: center;
+nav > ul{
+
     display: flex;
 }
 nav li{
